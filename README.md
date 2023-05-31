@@ -40,6 +40,7 @@
 2. Red Hat Certified EngineerRed Hat Certified Engineer
 3. Red Hat Certified Specialist in Services Management and Automation
 4. Red Hat Certified Specialist in OpenShift Administration
+5. Red Hat Certified Specialist in Virtualization
  
  
 </br>
