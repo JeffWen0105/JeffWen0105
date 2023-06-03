@@ -42,6 +42,17 @@
 4. Red Hat Certified Specialist in OpenShift Administration
 5. Red Hat Certified Specialist in Virtualization
  
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="65bf41db-7afa-4ee2-85b3-bc7c46f1da9e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="690c07af-9dc1-4330-b639-454354a059cb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="73160a09-7fde-48ac-b2ba-0f4b3c4e71cb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5fa55c76-16b5-4fe9-a80e-5a0531cb3eb6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b8c96e1d-6d45-492a-9b11-aa43005e326c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
  
 </br>
 
