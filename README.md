@@ -27,8 +27,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+
+
+
+
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jeffwen0105"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jeffwen0105" /></a></p><br><br>
+
 
  
 </br> 
@@ -41,8 +47,21 @@
 3. Red Hat Certified Specialist in Services Management and Automation
 4. Red Hat Certified Specialist in OpenShift Administration
 5. Red Hat Certified Specialist in Virtualization
- 
+6. Red Hat Certified Specialist in Containers
 
+ <p align="left">
+<img src="https://images.credly.com/size/220x220/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="rhcsa" width="80" height="80"/>
+  
+<img src="https://images.credly.com/size/220x220/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" alt="rhce" width="80" height="80"/>
+  
+<img src="https://images.credly.com/size/220x220/images/272f17b3-2eb9-4e5f-aa3c-66c6b137fb27/image.png" alt="rhca" width="80" height="80"/>
+  
+<img src="https://images.credly.com/size/220x220/images/b6cf67d4-0533-495b-acfe-9d08bb50bef1/image.png" alt="rhca"  width="80" height="80"/>
+  
+<img src="https://images.credly.com/size/220x220/images/f9b4de93-3647-41b9-a29c-9da66464a277/image.png" alt="rhca" width="80" height="80"/>
+  
+<img src="https://images.credly.com/size/220x220/images/e5933aba-96fc-4bcd-9691-c3c410817169/image.png" alt="rhca" width="80" height="80"/>
+ </p>
  
 </br>
 
